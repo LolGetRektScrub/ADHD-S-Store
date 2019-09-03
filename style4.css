@@ -1,5 +1,5 @@
 body {
-   background-color: blue;
+   background-color: grey;
 }
 
 .border {
@@ -58,6 +58,11 @@ figure {
   text-align: center;
   border: solid black; 
   padding: 10px;
+}
+
+yellowshirt {
+    width: 20%;
+   
 }
 
 h2 {
