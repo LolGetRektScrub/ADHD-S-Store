@@ -3,11 +3,10 @@ body {
 }
 
 .border {
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(Webbackground.JPG);
     height: 20vh;
     background-size: cover;
     background-position: center;
-    background-color: white;
+    background-color: none;
     padding: 0px 25px 35px 25px;
     height: 550px;
     width: 1200px;
