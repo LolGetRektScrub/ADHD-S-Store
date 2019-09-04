@@ -1,13 +1,14 @@
 body {
-   background-color: grey;
+  background-color: grey;
 }
 
 .border {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(Webbackground.jpg);
     height: 20vh;
     background-size: cover;
     background-position: center;
     background-color: none;
-    padding: 0px 25px 35px 25px;
+    padding: 0px 25px 40px 35px;
     height: 550px;
     width: 1200px;
     margin-left: auto;
